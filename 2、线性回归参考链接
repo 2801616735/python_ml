@@ -9,3 +9,9 @@ https://www.cnblogs.com/lijiankou/archive/2013/07/11/3183728.html
 
 一元线性回归的细节
 https://www.jianshu.com/p/fcd220697182
+
+
+线性回归模型
+	把每个特征对分类结果的"作用"加起来。
+	用数学表示 y = ax + b (其中 a表示权重，b表示偏置，x表示特征)
+	 
